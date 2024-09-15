@@ -1,0 +1,16 @@
+bcrypt
+cryptography
+fastapi
+python-jose
+python-multipart
+SQLAlchemy
+uvicorn
+passlib
+python-dotenv                                     
+python-jose   
+websockets    
+SQLAlchemy  
+PyJWT   
+pydantic     
+openai     
+aiosignal                                        
